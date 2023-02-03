@@ -748,7 +748,7 @@ isCharsetDef =
   , "(is-charset CHARSET_ASCII \"I am nÖt ascii\")"
   , "(is-charset CHARSET_LATIN1 \"I am nÖt ascii, but I am latin1!\")"
   ]
-  "Check that a string INPUT conforms to the a supported character set CHARSET.       \
+  "Check that a string INPUT conforms to the supported character set CHARSET.       \
   \Character sets currently supported are: 'CHARSET_LATIN1' (ISO-8859-1), and         \
   \'CHARSET_ASCII' (ASCII). Support for sets up through ISO 8859-5 supplement will be \
   \added in the future."
